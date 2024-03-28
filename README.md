@@ -1,10 +1,12 @@
 ### Project Name - Unsupervised-ML-Netflix_Movies_and_TV_shows_Clustering
 ##### **Project Type**    - Unsupervised
 ##### **Contribution**    - Team
-##### **Team Member 1 -Manasvi Save**
-##### **Team Member 2 -Sameer Rudani**
+##### **Team Member 1 - Manasvi Save**
+##### **Team Member 2 - Sameer Rudani**
 
 ### Project Summary -
+![image](https://github.com/msave121/Unsupervised-ML-Netflix_Movies_and_TV_shows_Clustering/assets/64603783/1f8374c5-7009-4e84-9b49-065259dc6b3d)
+
 Netflix is an online platform that offers entertainment-focused streaming services. It is a large content service that requires a subscription. The majority of its content is split into two categories: TV shows and films. It's currently the most widely used OTT platform globally in recent years. Customers may, however, discontinue their subscriptions at any moment. As a result, the business needs to maintain users' interest and keep them hooked on the platform. This is where recommendation engines come into play; giving people insightful ideas is crucial.
 
 Furthermore, Netflix operates as a media distribution business. Although it began with the mail-order distribution of DVDs, it has significantly changed over the years. Netflix's current concentration is on video streaming. A portion of the content is created internally, and a portion is licenced.
@@ -17,5 +19,3 @@ The dataset we are working with includes details about films and TV series that 
 Some remarkable facts about Netflix's content offerings were revealed in an intriguing research that was published in 2018. The survey claims that throughout the course of 2010, the number of TV series available on Netflix has almost tripled, while the number of films has dropped by almost 2,000 titles. This demonstrates a notable change in the platform's content environment, with a stronger focus on television series.
 
 There is a great chance to learn more by examining this dataset in more detail. Our understanding of the calibre and reception of the Netflix content can be further expanded by using additional datasets like Rotten Tomatoes and IMDB ratings. This connection creates opportunities to get interesting results and learn more about the platform's features in depth.
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVY9sc5iu3qaY_HVH-nAibQNKHpI1kD0ssxQ&s
